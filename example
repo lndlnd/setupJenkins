@@ -1,1 +1,2 @@
 echo "This is a new file" > example.txt
+echo "hello world"
